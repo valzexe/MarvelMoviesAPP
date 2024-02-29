@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryy">#FF637DC6</color>
+    <color name="dark">#FF2C3E50</color>
+    <color name="colorPrimary">#2C3C54</color>
+    <color name="colorPrimaryDark">#161F2C</color>
+    <color name="colorAccent">#5E83BC</color>
+    <color name="darkerGray">#a9a9a9</color>
+    <color name="primary">#FF0000</color>
+    <color name="lightred">#FD4556</color>
+    <color name="azul">#BD3944</color>
+    <color name="cupid">#FFFBF5</color>
+</resources>

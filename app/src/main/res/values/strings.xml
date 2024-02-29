@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Marvel Movies</string>
+    <string name="marvel_name">Marvel Names</string>
+    <string name="description">Deskripsi</string>
+    <string name="action_list">List</string>
+    <string name="action_grid">Grid</string>
+    <string name="about">About</string>
+    <string name="about_name">Muhamad Naufal</string>
+    <string name="about_email">2613.muhamad.naufal@gmail.com</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="action_share">Action Share</string>
+
+    <string-array name="data_marvel">
+        <item>Black Widow (2021)</item>
+        <item>Shang-Chi and the Legend of the Ten Rings (2021)</item>
+        <item>Eternals (2021)</item>
+        <item>Spider-Man: No Way Home (2021)</item>
+        <item>Doctor Strange in the Multiverse of Madness (2022)</item>
+        <item>Thor: Love and Thunder (2022)</item>
+        <item>Black Panther: Wakanda Forever (2022)</item>
+        <item>Ant-Man and the Wasp: Quantumania (2023)</item>
+        <item>Guardians of the Galaxy Vol. 3 (2023)</item>
+        <item>The Marvels (2023)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Black Widow is a 2021 American superhero film based on Marvel Comics featuring the character of the same name.
+            Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 24th film in the Marvel
+            Cinematic Universe (MCU). </item>
+        <item>Shang-Chi and the Legend of the Ten Rings is a 2021 American superhero film based on Marvel Comics featuring the
+            character Shang-Chi. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 25th
+            film in the Marvel Cinematic Universe (MCU). </item>
+        <item>Eternals is a 2021 American superhero film based on the Marvel Comics race of the same name. Produced by Marvel Studios
+            and distributed by Walt Disney Studios Motion Pictures, it is the 26th film in the Marvel Cinematic Universe (MCU).</item>
+        <item>Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character Spider-Man, co-produced by
+            Columbia Pictures and Marvel Studios, and distributed by Sony Pictures Releasing. It is the sequel to Spider-Man: Homecoming
+            (2017) and Spider-Man: Far From Home (2019), and the 27th film in the Marvel Cinematic Universe (MCU). </item>
+        <item>Doctor Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character
+            Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor
+            Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). </item>
+        <item>Thor: Love and Thunder is a 2022 American superhero film based on Marvel Comics featuring the character Thor. Produced by Marvel
+            Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Thor: Ragnarok (2017) and the 29th film in the
+            Marvel Cinematic Universe (MCU).</item>
+        <item>Black Panther: Wakanda Forever is a 2022 American superhero film based on Marvel Comics featuring the character Shuri / Black Panther.
+            Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Black Panther (2018) and the
+            30th film in the Marvel Cinematic Universe (MCU).</item>
+        <item>Ant-Man and the Wasp: Quantumania is a 2023 American superhero film based on Marvel Comics featuring the characters
+            Scott Lang / Ant-Man and Hope Pym / Wasp. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures,
+            it is the sequel to Ant-Man (2015) and Ant-Man and the Wasp (2018), and the 31st film in the Marvel Cinematic Universe (MCU).</item>
+        <item>Guardians of the Galaxy Vol. 3 (stylized in marketing as Guardians of the Galaxy Volume 3) is a 2023 American superhero film based
+            on the Marvel Comics superhero team Guardians of the Galaxy, produced by Marvel Studios, and distributed by Walt Disney Studios
+            Motion Pictures. It is the sequel to Guardians of the Galaxy (2014) and Guardians of the Galaxy Vol. 2 (2017), and the 32nd
+            film in the Marvel Cinematic Universe (MCU)</item>
+        <item>The Marvels is a 2023 American superhero film based on Marvel Comics. Produced by Marvel Studios and distributed by Walt Disney Studios
+            Motion Pictures, it is the sequel to the film Captain Marvel (2019), a continuation of the television miniseries Ms. Marvel (2022), and the
+            33rd film in the Marvel Cinematic Universe (MCU). </item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/9/9b/Eternals_%28film%29_poster.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/8/88/Thor_Love_and_Thunder_poster.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/3/3b/Black_Panther_Wakanda_Forever_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/7a/The_Marvels_poster.jpg</item>
+    </string-array>
+
+    <string-array name="marvel_sinopsis">
+        <item>In Marvel Studios action-packed film "Black Widow", Natasha Romanoff aka Black Widow must face the dark side of her life when a dangerous conspiracy is linked to her past. Pursued by something that will stop at nothing until it destroys her life, Natasha must return to the fact that she was a spy and her family relationships were destroyed before she joined the Avengers.</item>
+        <item>Martial-arts master Shang-Chi confronts the past he thought he left behind when he s drawn into the web of the mysterious Ten Rings organization.</item>
+        <item>The Eternals, a race of immortal beings with superhuman powers who have secretly lived on Earth for thousands of years, reunite to battle the evil Deviants.</item>
+        <item>Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Stranges spell goes horribly wrong, leading to unwanted guests entering their universe.</item>
+        <item>Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.</item>
+        <item>Thor embarks on a journey unlike anything he s ever faced — a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods. To combat the threat, Thor enlists the help of King Valkyrie, Korg and ex girlfriend Jane Foster, who  to his surprise inexplicably wields his magical hammer. Together, they set out on a harrowing cosmic adventure to uncover the mystery of the God Butchers vengeance.</item>
+        <item>Queen Ramonda, Shuri, MBaku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King TChallas death. As the Wakandans strive to embrace their next chapter, the heroes must band together with Nakia and Everett Ross to forge a new path for their beloved kingdom.</item>
+        <item>Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.</item>
+        <item>Still reeling from the loss of Gamora, Peter Quill must rally his team to defend the universe and protect one of their own. If the mission is not completely successful, it could possibly lead to the end of the Guardians as we know them.</item>
+        <item>Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. However, unintended consequences see her shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with two other superheroes to form the Marvels.</item>
+    </string-array>
+</resources>

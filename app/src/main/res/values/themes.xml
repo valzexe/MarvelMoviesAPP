@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MarvelMovies" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/lightred</item>
+        <item name="colorPrimaryVariant">@color/lightred</item>
+        <item name="colorOnPrimary">@color/lightred</item>
+    </style>
+
+    <style name="Splash" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.MarvelMovies" parent="Base.Theme.MarvelMovies" />
+</resources>
